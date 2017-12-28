@@ -1,0 +1,2 @@
+zabbix ALL=(ALL) NOPASSWD:/usr/bin/supervisorctl
+Defaults:zabbix !requiretty
